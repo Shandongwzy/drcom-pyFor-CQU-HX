@@ -9,4 +9,4 @@
 ## 然后根据您的操作系统选择安装
 ## 然后打开python文件就是 link.py ，配置校园网用户名和密码
 ## 再把它放到个人文件夹（比如Administrator）下这样就完成了！！！
-### 如果嫌麻烦，把我提供的 link.bat 也放到个人文件夹下然后每次只要双击link.bat就可以了！！！用这个方法可以避开开热点的检测，超好用，配合win10的开热点工具简直美滋滋，附上原版的地址 [drcom-generic] (https://github.com/drcoms/drcom-generic.git)
+### 如果嫌麻烦，把我提供的 link.bat 也放到个人文件夹下然后每次只要双击link.bat就可以了！！！用这个方法可以避开开热点的检测，超好用，配合win10的开热点工具简直美滋滋，附上原版的地址 [drcom-generic] ((https://github.com/drcoms/drcom-generic.git))
