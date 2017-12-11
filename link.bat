@@ -1,2 +1,2 @@
 @echo linking....
-@python latest-wired.py
+@python link.py
